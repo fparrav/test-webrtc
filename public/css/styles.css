@@ -1,15 +1,14 @@
 .video-container {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
 }
 
 video {
-    width: 300px;
-    margin: 10px;
+  width: 300px;
 }
 
 .controls {
-    text-align: center;
-    margin: 20px;
+  text-align: center;
+  margin: 20px;
 }
